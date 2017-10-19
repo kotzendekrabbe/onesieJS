@@ -1,0 +1,42 @@
+body {
+    padding: 2em 1em 1em;
+
+    background-color: #333;
+    color: #f4f4f4;
+    
+    font-size: 20px;
+    font-family: Helvetica Neue, Verdana, sans-serif;
+    text-align: center;
+}
+
+.onesie{
+    display: none;
+}
+
+.onesie-show{
+    font-size: 120px;
+    display: block;
+}
+
+.🆘 {
+    font-size: 100px;
+}
+
+
+.🔈 {
+    margin: 0.25em 0 2em 0;
+    font-size: 20px;
+}
+
+.🔀 {
+    padding: 1em;
+    border: 1px solid #34cc95;
+
+    box-shadow: none;
+    background-color: transparent;
+    color: #f2f2f2;
+
+    font-size: 20px;
+    cursor: pointer;
+}
+
